@@ -1,0 +1,15 @@
+C:\Users\yojan\Desktop\Yojan_Ramirez_Productos\ControlApp\bin\Debug\net9.0\ControlApp.exe
+C:\Users\yojan\Desktop\Yojan_Ramirez_Productos\ControlApp\bin\Debug\net9.0\ControlApp.deps.json
+C:\Users\yojan\Desktop\Yojan_Ramirez_Productos\ControlApp\bin\Debug\net9.0\ControlApp.runtimeconfig.json
+C:\Users\yojan\Desktop\Yojan_Ramirez_Productos\ControlApp\bin\Debug\net9.0\ControlApp.dll
+C:\Users\yojan\Desktop\Yojan_Ramirez_Productos\ControlApp\bin\Debug\net9.0\ControlApp.pdb
+C:\Users\yojan\Desktop\Yojan_Ramirez_Productos\ControlApp\obj\Debug\net9.0\ControlApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yojan\Desktop\Yojan_Ramirez_Productos\ControlApp\obj\Debug\net9.0\ControlApp.AssemblyInfoInputs.cache
+C:\Users\yojan\Desktop\Yojan_Ramirez_Productos\ControlApp\obj\Debug\net9.0\ControlApp.AssemblyInfo.cs
+C:\Users\yojan\Desktop\Yojan_Ramirez_Productos\ControlApp\obj\Debug\net9.0\ControlApp.csproj.CoreCompileInputs.cache
+C:\Users\yojan\Desktop\Yojan_Ramirez_Productos\ControlApp\obj\Debug\net9.0\ControlApp.sourcelink.json
+C:\Users\yojan\Desktop\Yojan_Ramirez_Productos\ControlApp\obj\Debug\net9.0\ControlApp.dll
+C:\Users\yojan\Desktop\Yojan_Ramirez_Productos\ControlApp\obj\Debug\net9.0\refint\ControlApp.dll
+C:\Users\yojan\Desktop\Yojan_Ramirez_Productos\ControlApp\obj\Debug\net9.0\ControlApp.pdb
+C:\Users\yojan\Desktop\Yojan_Ramirez_Productos\ControlApp\obj\Debug\net9.0\ControlApp.genruntimeconfig.cache
+C:\Users\yojan\Desktop\Yojan_Ramirez_Productos\ControlApp\obj\Debug\net9.0\ref\ControlApp.dll
