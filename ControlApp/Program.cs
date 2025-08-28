@@ -16,15 +16,16 @@ public class Productos
 
 
 
-public class FacturaProductos : Productos
+public class FacturaProductos
 {
     public double Total = 0;
-    
+
     public int NumFactura = 0;
-   
-    
+
+
 
 }
+// elimine herencia para conflicto
 public class Tienda
 {
 
@@ -36,7 +37,7 @@ public class Tienda
 
 }
 
-public class PropietarioTienda:Tienda
+public class PropietarioTienda
 {
 
    
