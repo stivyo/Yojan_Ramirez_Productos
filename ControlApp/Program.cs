@@ -21,6 +21,7 @@ public class FacturaProductos : Productos
     public double Total = 0;
     
     public int NumFactura = 0;
+public List<Productos> VideoJuegos = new List<Productos>(); // cambio para el conflicto
    
     
 
